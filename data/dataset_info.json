@@ -1,4 +1,10 @@
 {
+  "disc_law_sft_train": {
+    "file_name": "disc_law_sft_train.jsonl"
+  },
+  "disc_law_sft_test": {
+    "file_name": "disc_law_sft_test.jsonl"
+  },
   "identity": {
     "file_name": "identity.json"
   },
